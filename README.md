@@ -14,4 +14,11 @@ Denton Enterprise Airport
 5. Turn left toward chestnut St  400ft
 6. Turn left onto avenue E/N Texas Blvd
 7. Turn left toward w praire St
-8. Continue onto Airport Road 
+8. Continue onto Airport Road
+# Best places to visit
+- the Museum of cape
+- Naval air station
+- Emlen Phsick Estate
+- willow creek winery
+- cape May winery
+- historic cold spring village 
