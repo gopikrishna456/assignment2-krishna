@@ -42,3 +42,24 @@ Denton Enterprise Airport
 ###### best books that i like
 > "ALL IS WELL" - *RAJ KUMAR HIRANI*
 > "PAST IS PAST" -*JAMES FORDWITH*
+
+
+----------------
+#### code bordering
+const originalString = `
+  <div>
+    <p>Hey that's <span>somthing</span></p>
+  </div>
+`;
+
+const strippedString = originalString.replace(/(<([^>]+)>)/gi, "");
+
+console.log(strippedString);
+
+quick link to stackoverflow
+https://css-tricks.com/snippets/javascript/
+
+quick link to snippet source
+https://css-tricks.com/snippets/javascript/strip-html-tags-in-javascript/
+
+
