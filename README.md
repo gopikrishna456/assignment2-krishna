@@ -25,3 +25,14 @@ Denton Enterprise Airport
 
 
 ![AboutMefile](AboutMe.md)
+
+
+
+
+----------
+#### coolest places on the earth
+|name of the city| important location|time to spent|
+|newyork         |Times square     |12hours      |
+|Kansas          |overlandpark     |14h0urs      |
+|maryville       |parkwayvillage   |24hours      |
+|nebraska        |omaha            |34 hours     |
